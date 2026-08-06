@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.1.1](https://github.com/terraform-aws-modules/terraform-aws-sns/compare/v7.1.0...v7.1.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#72](https://github.com/terraform-aws-modules/terraform-aws-sns/issues/72)) ([f106705](https://github.com/terraform-aws-modules/terraform-aws-sns/commit/f10670535e172e866002fa5ee3b7d75f333d70d1))
+
 ## [7.1.0](https://github.com/terraform-aws-modules/terraform-aws-sns/compare/v7.0.0...v7.1.0) (2026-01-08)
 
 ### Features
